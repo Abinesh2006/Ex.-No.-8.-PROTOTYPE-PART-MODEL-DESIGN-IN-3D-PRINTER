@@ -46,6 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2024-12-05 at 1 52 24 PM](https://github.com/user-attachments/assets/7b143b07-969a-4fce-a19a-18c6b033204e)
+![WhatsApp Image 2024-12-05 at 1 52 26 PM](https://github.com/user-attachments/assets/5dbab9a1-789a-414a-a4cd-1b34e16a0235)
+
 
 ### Name:Abinesh.M
 ### Register Number:24901191
